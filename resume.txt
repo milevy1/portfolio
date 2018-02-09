@@ -1,0 +1,61 @@
+Matthew Levy
+838 N Hoyne Ave Chicago, IL 60622 | Cell: 321-961-5227 | MatthewIsaacLevy@gmail.com
+
+Summary
+A strategic leader with over five years of experience in engineering design and project management. Verifiable accomplishments working in the utilities industry for both operations maintenance and capital construction. Proven ability in collaborating with knowledgeable staff and key business partners to achieve results on time and within budget.
+
+Areas of Expertise
+Microsoft Excel ~ Visual Basic (VBA) ~ Access ~ SQL ~ Visio ~ Primavera ~ PeopleSoft
+ESRI Arc GIS ~ SynerGEE Gas ~ 49 CFR Part 192 (Natural gas pipeline standards)
+
+
+Professional Experience
+Engineer, Capital Construction	8/2016 – Present
+Peoples Gas (WEC Energy Group Inc.) – Chicago, IL
+
+Promoted to new role for engineering design and project management of several projects for the natural gas pipeline infrastructure upgrade program. Capital improvements plan to replace 2,000+ miles of cast iron main with medium pressure plastic pipe over 30 years. Accountable for successful completion of projects measured by schedule, budget, safety and customer satisfaction metrics.  
+
+-	System Modernization Projects:
+o	Beverly Phases 1-3: (Project values: $11.5MM, 30,000’ main, 572 services)
+o	Morgan Park Phases 1-5 (Project values: $18MM, 32,500’ main, 498 services)
+o	Morgan Park (WoF) Phases 1-3 (Project values: $10MM, 10,450’ main, 98 services)
+-	Peer review initial design drawings, perform line of lay walkthroughs with design consultant and conduct preconstruction kickoff meetings with contractors
+-	Created template of a project “shop work package” for field utility workers by querying company databases using SQL.  Packages include project design drawings, dig permits, electronic order numbers, accounting codes, customer contact information, existing service pipe location, size, and material
+-	For shutdowns/tie-ins, model natural gas pipeline pressure changes in SynerGEE Gas and edit live gas layer in ESRI ArcGIS the day of gassing
+-	Review and sign off on as-built drawings and liaise with GIS team to address any issues
+
+Associate Engineer, O&M Planning	6/2014 – 8/2016
+Peoples Gas (WEC Energy Group Inc.) – Chicago, IL
+
+Developed and implemented operational strategies and business plans related to operations and maintenance activities on the gas distribution system serving 800,000+ customers in the city of Chicago. The main focuses were operational safety, customer satisfaction, financial accountability and resource management. 
+
+-	Eliminated 20% of annual gas thefts via process of identifying orders generated due to errors.  Resulted in 12,000+ less hours of labor and 50% reduction in related complaints
+-	Developed and presented to the executive board two project management plans for new regulatory compliance proposals.  Plans included executive summaries, project scopes, risks, order tracking methods, reports with databases, flow charts of roles/responsibilities, FTEs and resource requirements 
+-	Managed two dispatcher employees and ten contractors by providing training, work assignments, and invoicing while they performed gas disconnections for non-payment.  Achieved company collections goals under budget for 2014, 2015, and 2016
+-	Tracked progress and created weekly reports of resource allocations for annual sample meter changes and unauthorized occupant usage.  Analyzed data from company databases and reported all required compliance data to state regulators
+-	Member of the interview board for new non-exempt utility field employees
+
+Project Engineer	6/2012 – 6/2014
+Salco Products Inc. – Lemont, IL
+
+Project management and engineering design services for railroad transloading systems with hazardous chemicals. Led design, procurement, testing, and construction of chemical pumping stations custom built with packed bed vapor scrubbers, safety showers with heat traced piping. 
+
+-	Created Excel formula utilizing vlookup and interpolation of partial pressure data to calculate partial vapor pressures at set temperatures
+-	Communicated with customers to develop project scopes and quotes that met all their requirements
+-	Ensured technical requirements are in compliance with all OSHA safety regulatory standards
+-	Designed packed bed vapor separators utilizing pressure data and testing to meet requirements
+-	Sized equipment including pumps and compressors to optimize the design specifications
+
+
+Education
+Bachelor of Science in Chemical Engineering	Graduated 2013
+University of Illinois at Chicago – Chicago, IL
+GPA: 3.84/4.00, Magna Cum Laude, McCormick Award, EIT 
+
+
+Community Involvement
+
+Peoples Gas Commitment to Community	2014 – Present
+Chicago Public Schools Middle School Science Clubs 	2014 – Present
+One Step Charity Poker Championship Volunteer	2015
+Children’s Tumor Foundation 5K Run Volunteer	2014

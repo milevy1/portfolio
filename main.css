@@ -1,0 +1,41 @@
+/* main.css */
+
+html, body, h1, h2, h3, h4, p, div, ul, ol, li {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font: inherit;
+  font-size: 100%;
+}
+
+.header h1 {
+  text-align: center;
+  font-size: 110%;
+  font-weight: bold;
+}
+
+.contact h3 {
+  text-align: center;
+  border-bottom: 1px solid black;
+  padding-bottom: 6px;
+  margin-bottom: 6px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 110%;
+  margin: auto;
+}
+
+.summary h3 {
+  padding: 0 20px 10px 20px;
+  margin: auto;
+}
+
+.summary h4{
+  text-align: center;
+  font-size: 105%;
+  font-weight: bold;
+  font-style: italic;
+}

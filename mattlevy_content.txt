@@ -1,0 +1,39 @@
+Matt Levy
+
+I'm an engineer actively taking software devlopment courses at CodeSchool.com.
+
+Interests:
+Snowboarder, redditor (list favorite subreddits), gamer (ex Wow player, PUBG, Hearthstone), cars (pic of mine?), music edm hiphop,
+
+Education
+Bachelor of Science in Chemical Engineering	Graduated 2013
+University of Illinois at Chicago – Chicago, IL
+GPA: 3.84/4.00, Magna Cum Laude, McCormick Award, EIT 
+
+Experience:
+Engineer, Capital Construction - Peoples Gas - 	8/2016 – Present
+Associate Engineer, O&M Planning - Peoples Gas - 6/2014 – 8/2016
+Project Engineer - Salco Products Inc. - 6/2012 – 6/2014
+
+Course I've completed at CodeSchool.com:
+HTML/CSS Front-end Foundations
+JavaScript Road Trip Part 1, 2, 3
+
+Skills:
+- HTML
+- CSS
+- JavaScript
+- Visual Basic
+- SQL
+
+Contact footer:
+milevy1@gmail.com
+
+*HTML/CSS skills to demonstrate:
+- Background colors
+- Links- linkedin, github, 
+- Images- persy photo, car, snowboard, cats,
+- Lists
+- Classes
+- Implement some JavaScript maybe??
+- Forms, maybe a comments or contact me form
