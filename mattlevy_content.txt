@@ -1,30 +1,28 @@
-Matt Levy
+Matt Levy (banner)
+$, snowboarding, cars, EDM, coding, gaming, pasta
 
-I'm an engineer actively taking software devlopment courses at CodeSchool.com.
+(Photo)
+Engineer @ Peoples Gas
+Chicago, IL
+B.S. in Chemical Engineering - UIChicago
 
-Interests:
-Snowboarder, redditor (list favorite subreddits), gamer (ex Wow player, PUBG, Hearthstone), cars (pic of mine?), music edm hiphop,
-
-Education
-Bachelor of Science in Chemical Engineering	Graduated 2013
-University of Illinois at Chicago – Chicago, IL
-GPA: 3.84/4.00, Magna Cum Laude, McCormick Award, EIT 
-
-Experience:
-Engineer, Capital Construction - Peoples Gas - 	8/2016 – Present
-Associate Engineer, O&M Planning - Peoples Gas - 6/2014 – 8/2016
-Project Engineer - Salco Products Inc. - 6/2012 – 6/2014
+I'm an aspiring software devloper actively taking courses at CodeSchool.  ...
+...
+...
+...
+...
 
 Course I've completed at CodeSchool.com:
+**Include images here
 HTML/CSS Front-end Foundations
 JavaScript Road Trip Part 1, 2, 3
 
 Skills:
+- Visual Basic
+- SQL
 - HTML
 - CSS
 - JavaScript
-- Visual Basic
-- SQL
 
 Contact footer:
 milevy1@gmail.com
@@ -37,3 +35,7 @@ milevy1@gmail.com
 - Classes
 - Implement some JavaScript maybe??
 - Forms, maybe a comments or contact me form
+
+
+Microsoft Excel ~ Visual Basic (VBA) ~ Access ~ SQL ~ Visio ~ Primavera ~ PeopleSoft
+ESRI Arc GIS ~ SynerGEE Gas ~ 49 CFR Part 192 (Natural gas pipeline standards)
